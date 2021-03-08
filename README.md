@@ -1,5 +1,5 @@
 # vmpielk
-ELK 7.11.1 SUITE for Raspberry pi 4 (4GB) with beats *(auditbeat, filebeat, heartbeat, metricbeat and packetbeat)*
+ELK 7.11.1 SUITE for Raspberry pi 4 (4GB arm64) with beats *(auditbeat, filebeat, heartbeat, metricbeat and packetbeat)*
 
 ## OS Requirements
 RPI 4 4GB (8GB recommended)
