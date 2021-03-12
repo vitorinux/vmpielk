@@ -8,9 +8,9 @@ ELK 7.11.1 SUITE for Raspberry pi 4 (4GB arm64) with beats *(auditbeat, filebeat
 - RPI 4 4GB (8GB recommended)
 - Raspbian or Ubuntu arm64 OS based (aarch64)
 - 64GB of Storage (boot from SSD recommended)
-- Clone FORK easyBEATS from vitorinux to compile BEATS
+- Clone FORK easyBEATS from vitorinux to compile BEATS (only for arm64 OS)
 	- https://github.com/vitorinux/easyBEATS.git
-- 2 cups of coffe
+- 2 cups of coffee
 
 
 
