@@ -22,14 +22,14 @@ ELK 7.11.1 SUITE for Raspberry pi 4 (4GB arm64) with beats *(auditbeat, filebeat
 
 ### Install preconfigured Elasticsearch, Kibana and Logstash *(not required but let's try)* 
 
-Go to **arm64DEBS** folder and install in this order *(select your release from https://www.elastic.co/downloads/)*
+Go to web link and download the following arm64 DEB files *(select 7.11.1 release from https://www.elastic.co/downloads/)*
  - elasticsearch-7.11.1-arm64.deb
  - kibana-7.11.1-arm64.deb
  - logstash-7.11.1-arm64.deb
 
-### ELK RAM Requirements (configure jvm.options)
+### ELK RAM Requirements (configure jvm.options file)
 - Elasticsearch (-Xms1g and -Xmx1g)
-- Logstash 500mb (-Xms600m and -Xmx600m)
+- Logstash 600mb (-Xms600m and -Xmx600m)
 - Kibana (default)
 
 
